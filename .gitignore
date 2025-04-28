@@ -18,3 +18,4 @@ go/tmp/
 gotest/go.sum
 gotest/hello
 frontend/dist
+lang.py
